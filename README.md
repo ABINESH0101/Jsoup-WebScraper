@@ -35,4 +35,5 @@ QuoteScraper Java is a Java-based web scraping application that extracts quotes,
 - SLF4J for logging
 
 ## License
-This project is licensed under the MIT License
+Copyright (c) 2025 ABINESH
+
