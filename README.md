@@ -15,7 +15,7 @@ QuoteScraper Java is a Java-based web scraping application that extracts quotes,
 
 ## Installation
 1. Clone the repository
-   git clone https://github.com/yourusername/QuoteScraper-Java.git
+   git clone https://github.com/ABINESH0101/Jsoup-WebScraper
 2. Open the project in IntelliJ IDEA or your preferred IDE
 3. Build the project with Maven
    mvn clean install
