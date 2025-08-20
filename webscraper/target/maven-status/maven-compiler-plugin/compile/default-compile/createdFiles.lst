@@ -1,0 +1,5 @@
+com\example\model\Article.class
+com\example\scraper\QuoteScraper.class
+com\example\util\TextCleaner.class
+com\example\App.class
+com\example\db\Database.class
